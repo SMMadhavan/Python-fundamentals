@@ -38,4 +38,4 @@ print(list)
 tuple=("parrot",34,5.8,"Kings")
 print(tuple)
 dict={"key1":"value1", "key2":"value2", "key3":"value3"}
-print(dict)
+print(dict)#Dictionary values can be retreived by their corresponding keys
