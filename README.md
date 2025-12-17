@@ -8,4 +8,4 @@ Purpose of this repository:
 - To revise Python fundamentals
 - To track my learning progress over time
 
-This repository will be updated as I continue learning.
+This repository will be updated as I continue learning. 
