@@ -34,9 +34,9 @@ and explicit typecasting is done by the programmer as per his requirement.
 '''
 
 #Explicit Typecasting
-a="10"
-b="20"
-print(a+b) #Output: 1020
+a="10" #When we prompt an integer inside quotes, the compiler understands it as a string, so no arithmetic operation is performed 
+b="20" #So the values are simply concatenated (Compiled as string and displayed side by side
+print(a+b) #Output: 1020 
 print(int(a)+int(b)) # Implementing ET, Output: 30
 
 #Implicit Typecasting
@@ -49,4 +49,5 @@ result = num_int + num_float
 print("Data type of num_int:", type(num_int))
 print("Data type of num_float:", type(num_float))
 print("Data type of result:", type(result))
+
 print("Result of addition:", result)
