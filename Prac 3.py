@@ -26,4 +26,5 @@ print(int(c)+int(d)) #Output is addition of two numbers
 #In the same way, we can also take float input
 a=float(input("Num 1:"))
 b=float(input("Num 2:"))
+#Float is a datatype used when numbers involve decimal values and are not whole integer 
 print(a+b) #Output is addition of two numbers
