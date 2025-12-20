@@ -70,7 +70,7 @@ print(fruit[0:6:2]) #Output: bnn
 '''
 An important point to note is that in string slicing, the starting index is inclusive and the ending index is exclusive. Means when we slice a string, the character at the starting index is included in the sliced string, but the character at the ending index is not included in the sliced string. We can consider it as (n-1) in the sliced string.
 '''
-#Now lets try out negative indexing/slicing
+#Now lets try out negative indexing/slicing in string(s)
 name="Rengoku"
 print(name[-1]) #Output: u
 print(name[-6:-1]) #Output: Rengok
@@ -82,3 +82,4 @@ print(name[-6:-1:-2]) #Output: (empty string), Because the step is negative, but
 In negative indexing, the last character of the string is at index -1, the second last character is at index -2, and so on. The traversal of the string in case of negative indexing is done from right to left. The last character of the string is at index -1, the second last character is at index -2, and so on. The traversal of the string in case of negative indexing is done from right to left. But the result will be printed in reverse order, i.e from left to right. So a greater index will be printed first and then the smaller index so that negative slicing works and the output is returned in the correct order.
 
 '''
+
