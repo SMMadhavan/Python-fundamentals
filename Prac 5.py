@@ -41,4 +41,6 @@ print(abc.lower()) #Output: moonnight
 # The rstrip() method does not take any arguments.
 
 efg="!!!!!Hello world!!!!!!!"
+
 print(efg.rstrip("!"))
+#Output: !!!!!Hello world
