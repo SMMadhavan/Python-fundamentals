@@ -43,4 +43,5 @@ print(abc.lower()) #Output: moonnight
 efg="!!!!!Hello world!!!!!!!"
 
 print(efg.rstrip("!"))
-#Output: !!!!!Hello world
+#Output: !!!!!Hello world, the last exclamatory marks have been removed after world
+
