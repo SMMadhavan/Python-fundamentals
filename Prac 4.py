@@ -28,7 +28,7 @@ Strings can be checked for uppercase characters using the isupper() method.
 '''
 
 Str="Hello World"
-print(Str) #Output: Hello World
+print(Str) #Output: Hello World, (Without indexing, the complete string is priinted onto the console)
 print(Str[0]) #Output: H, first index value
 print(Str[1]) #Output: e, second index value
 print(Str[2]) #Output: l, third index value
@@ -82,4 +82,5 @@ print(name[-6:-1:-2]) #Output: (empty string), Because the step is negative, but
 In negative indexing, the last character of the string is at index -1, the second last character is at index -2, and so on. The traversal of the string in case of negative indexing is done from right to left. The last character of the string is at index -1, the second last character is at index -2, and so on. The traversal of the string in case of negative indexing is done from right to left. But the result will be printed in reverse order, i.e from left to right. So a greater index will be printed first and then the smaller index so that negative slicing works and the output is returned in the correct order.
 
 '''
+
 
