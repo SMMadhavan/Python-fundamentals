@@ -1,5 +1,5 @@
-# Day 13 String methods
-'''
+# Day 13 String methods in python 
+''' 
 Strings are a sequence of characters. Strings are used to store text data. Strings are immutable, which means that once a string is created, it cannot be changed. Strings are enclosed in single quotes (' ') or double quotes (" "). Strings can be concatenated using the + operator. Strings can be repeated using the * operator. Strings can be indexed using square brackets ([ ]). Strings can be sliced using the colon (:) operator. Strings can be formatted using the format() method. Strings can be converted to uppercase or lowercase using the upper() and lower() methods. Strings can be checked for alphanumeric characters using the isalnum() method. Strings can be checked for alphabetic characters using the isalpha() method. Strings can be checked for numeric characters using the isnumeric() method. Strings can be checked for digits using the isdigit() method. Strings can be checked for whitespace characters using the isspace() method. Strings can be checked for printable characters using the isprintable() method. Strings can be checked for title case using the istitle() method. Strings can be checked for uppercase characters using the isupper() method. Strings can be checked for lowercase characters using the islower() method.
 String methods are built-in functions that can be used to manipulate strings. String methods are used to perform operations on strings.
 String methods are used to perform operations such as:
@@ -44,4 +44,5 @@ efg="!!!!!Hello world!!!!!!!"
 
 print(efg.rstrip("!"))
 #Output: !!!!!Hello world, the last exclamatory marks have been removed after world
+
 
