@@ -1,4 +1,5 @@
 #Day 7 Learning operators 
+#Logical functioning of operators(arithmetic operations) in programming, requires minimum 2 operands(numbers)
 
 print(5+6) #Addition Operator
 print(15-6) #Subtraction Operator
@@ -51,3 +52,4 @@ print("Data type of num_float:", type(num_float))
 print("Data type of result:", type(result))
 
 print("Result of addition:", result)
+
