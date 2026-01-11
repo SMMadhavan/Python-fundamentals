@@ -1,4 +1,5 @@
 #Day 10 Taking input from user
+
 #(i) String
 a=input("Enter your name:")
 b=input("Enter your age:")
@@ -15,10 +16,12 @@ c=input("Num 1:")
 d=input("Num 2:")
 print(c+d) #Output is concatenation of two strings even though we are taking input as numbers
 #To avoid this, we can convert the input to int or float
+
 c=int(input("Num 1:"))
 d=int(input("Num 2:"))
 print(c+d) #Output is addition of two numbers
 #or we can also use int in print statement
+
 c=input("Num 1:")
 d=input("Num 2:")
 print(int(c)+int(d)) #Output is addition of two numbers
@@ -28,5 +31,6 @@ a=float(input("Num 1:"))
 b=float(input("Num 2:"))
 #Float is a datatype used when numbers involve decimal values and are not whole integer 
 print(a+b) #Output is addition of two numbers (Float Value)
+
 
 
