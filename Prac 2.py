@@ -1,13 +1,13 @@
 #Day 7 Learning operators 
 #Logical functioning of operators(arithmetic operations) in programming, requires minimum 2 operands(numbers)
 
-print(5+6) #Addition Operator
-print(15-6) #Subtraction Operator
-print(15*6) #Multiplication Operator
-print(15/6) #Division Operator
-print(15//6) #Floor Division Operator (returns whole integer)
-print(5%3) #Modulo Operator (returns remainder)
-print(2**4) #Exponential Operator (returns power times multiplication)
+print(5+6) # Addition Operator
+print(15-6) # Subtraction Operator
+print(15*6) # Multiplication Operator
+print(15/6) # Division Operator
+print(15//6) # Floor Division Operator (returns whole integer)
+print(5%3) # Modulo Operator (returns remainder)
+print(2**4) # Exponential Operator (returns power times multiplication)
 
 #Day 8 Building a Static calculator
 
@@ -52,4 +52,5 @@ print("Data type of num_float:", type(num_float))
 print("Data type of result:", type(result))
 
 print("Result of addition:", result)
+
 
