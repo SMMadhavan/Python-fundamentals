@@ -1,4 +1,4 @@
-#Day 1 (100 days of learning python)
+#Day 1 (Learning basic print statements for strings and numbers)
 print("Hello World, It's my first day in learning python")
 print(1)
 print(3-2)
