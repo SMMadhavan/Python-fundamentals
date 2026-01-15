@@ -1,4 +1,5 @@
 #Day 7 Learning operators 
+
 #Logical functioning of operators(arithmetic operations) in programming, requires minimum 2 operands(numbers)
 
 print(5+6) # Addition Operator
@@ -11,6 +12,7 @@ print(2**4) # Exponential Operator (returns power times multiplication)
 
 #Day 8 Building a Static calculator
 
+#Static Input 
 a=20
 b=10
 print("The value of", a, "+", 10, "is", a+b)
@@ -35,16 +37,19 @@ and explicit typecasting is done by the programmer as per his requirement.
 '''
 
 #Explicit Typecasting
+
 a="10" #When we prompt an integer inside quotes, the compiler understands it as a string, so no arithmetic operation is performed 
 b="20" #So the values are simply concatenated (Compiled as string and displayed side by side
 print(a+b) #Output: 1020 
 print(int(a)+int(b)) # Implementing ET, Output: 30
 
 #Implicit Typecasting
+
 num_int = 123   # Integer type
 num_float = 1.23  # Float type
 
 # Adding integer and float
+
 result = num_int + num_float
 
 print("Data type of num_int:", type(num_int))
@@ -52,5 +57,6 @@ print("Data type of num_float:", type(num_float))
 print("Data type of result:", type(result))
 
 print("Result of addition:", result)
+
 
 
