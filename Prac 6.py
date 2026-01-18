@@ -25,3 +25,10 @@ Several third-party packages are available to provide additional helper function
 python-utils: A collection of functions and classes for common patterns, installable via pip install python-utils. It offers tools for things like converting text to numbers or ensuring consistent string formats.
 pyxx: A library offering a unit converter, array tools, and file processing operations, installable via pip install pyxx. 
 '''
+
+'''
+Python functions are named blocks of reusable code designed to perform a specific, related action. They enhance modularity and code reuse, making programs easier to manage, debug, and understand. 
+Defining and Calling Functions
+Functions are defined using the def keyword, followed by a name, parentheses for potential parameters, and a colon. The body of the function must be indented. 
+
+'''
