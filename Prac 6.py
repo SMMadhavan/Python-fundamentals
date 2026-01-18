@@ -31,4 +31,14 @@ Python functions are named blocks of reusable code designed to perform a specifi
 Defining and Calling Functions
 Functions are defined using the def keyword, followed by a name, parentheses for potential parameters, and a colon. The body of the function must be indented. 
 
+def greet(name):
+  """This function greets the person passed in as a parameter.""" # Docstring
+  print(f"Hello, {name}!")
+
+A function is executed when it is called by its name, with any required arguments passed within the parentheses: 
+greet("Alice") # Calling the function
+# Output: Hello, Alice!
+
+
+
 '''
