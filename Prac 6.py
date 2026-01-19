@@ -31,6 +31,7 @@ Python functions are named blocks of reusable code designed to perform a specifi
 Defining and Calling Functions
 Functions are defined using the def keyword, followed by a name, parentheses for potential parameters, and a colon. The body of the function must be indented. 
 
+#example: 
 def greet(name):
   """This function greets the person passed in as a parameter.""" # Docstring
   print(f"Hello, {name}!")
@@ -59,3 +60,4 @@ Keyword Arguments: Arguments identified by their parameter names, allowing them 
 Default Arguments: Parameters that assume a default value if no value is provided in the function call.
 Arbitrary Arguments (*args and **kwargs): Used to pass a variable number of non-keyworded (*args) or keyworded (**kwargs) arguments to a function. 
 '''
+# 
