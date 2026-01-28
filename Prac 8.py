@@ -36,3 +36,6 @@ JavaScript is dominant in client-side web development, while Python is more wide
 R is highly specialized for statistical modeling and data visualization but lacks Python's general-purpose versatility. 
 In essence, Python's "dominance" is not about being the best in every single metric (such as raw speed), but rather its unparalleled balance of simplicity, versatility, and extensive support, making it the most practical and widely adopted choice for a vast range of modern computing needs. 
 '''
+
+# Scope of Python
+
