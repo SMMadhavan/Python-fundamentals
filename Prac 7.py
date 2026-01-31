@@ -20,6 +20,7 @@ Python 3.13
 Python 3.12
 Python 3.11
 Python 3.10 (only receiving security updates until October 2026)
+
 Release Cycle: Since version 3.9, a new feature release of Python is made approximately every 12 months, followed by two years of full support and three years of security support.
 Performance Improvements: Recent versions of Python 3 have seen significant performance enhancements. Python 3.11 was notably faster than previous versions, and Python 3.12 and 3.13 have continued this trend, with an experimental Just-In-Time (JIT) compiler introduced in 3.13. 
 Key Features Introduced in Major 3.x Versions
