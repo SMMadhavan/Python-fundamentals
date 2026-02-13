@@ -33,4 +33,28 @@ This method is intuitive as it follows the natural recursive definition, but opt
 '''
 
 '''
+2. Bottom-Up Approach (Tabulation)
+Tabulation involves solving the problem iteratively from the base cases up to the desired n, typically using an array (or list in Python) to store the intermediate results. 
+python
+def fibonacci_tabulated(n):
+    """
+    Calculates the nth Fibonacci number using tabulation.
+    """
+    if n <= 1:
+        return n
+
+    # Create a DP table (list) to store the values
+    dp = [0] * (n + 1)
+    dp[1] = 1 # Initialize base case
+
+    # Iterate and fill the table
+    for i in range(2, n + 1):
+        dp[i] = dp[i - 1] + dp[i - 2]
+    
+    return dp[n]
+
+# Example usage:
+n = 10
+print(f"The {n}th Fibonacci number (tabulated) is: {fibonacci_tabulated(n)}") # Output: 55
+This approach avoids recursion overhead and is often more space-efficient in complex problems. 
 '''
