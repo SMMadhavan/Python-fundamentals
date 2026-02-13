@@ -6,7 +6,9 @@ Dynamic programming is an algorithmic technique that solves problems by breaking
 Here are beginner Python codes for the Fibonacci sequence using both major dynamic programming approaches:
 1. Top-Down Approach (Memoization) 
 Memoization involves using a dictionary or a list (often called memo or dp) to store the results of expensive function calls and returning the cached result when the same inputs occur again. 
-python
+
+Python Code
+
 def fibonacci_memoized(n, memo={}):
     """
     Calculates the nth Fibonacci number using memoization.
