@@ -61,7 +61,7 @@ This approach avoids recursion overhead and is often more space-efficient in com
 '''
 
 '''
-# An analogy to understand 
+# An analogy to understand dynamic programming logic
 Python's dynamic typing is like a versatile kitchen where containers are not assigned to ingredients in advance. 
 Rather than permanently labelling a jar as “sugar”, you can put honey or salt in it as and when required. 
 In Python, you need not declare a variable's data type in advance.
