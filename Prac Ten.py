@@ -59,3 +59,9 @@ n = 10
 print(f"The {n}th Fibonacci number (tabulated) is: {fibonacci_tabulated(n)}") # Output: 55
 This approach avoids recursion overhead and is often more space-efficient in complex problems. 
 '''
+
+'''
+Python's dynamic typing is like a versatile kitchen where containers are not assigned to ingredients in advance. 
+Rather than permanently labelling a jar as “sugar”, you can put honey or salt in it as and when required. 
+In Python, you need not declare a variable's data type in advance.
+'''
