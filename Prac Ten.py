@@ -69,6 +69,7 @@ In Python, you need not declare a variable's data type in advance.
 
 '''
 To become a "pro" in dynamic programming (DP) using Python, you must focus on understanding core algorithmic principles and apply specific Python coding practices. 
+
 Mastering Dynamic Programming Fundamentals
 The key to dynamic programming is breaking down complex problems into smaller, overlapping subproblems and storing the solutions to avoid redundant computations. 
 Master Recursion first: DP solutions are fundamentally optimized recursive solutions. Ensure you are comfortable writing pure, brute-force recursive functions before applying DP.
