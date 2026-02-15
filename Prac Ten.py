@@ -66,3 +66,6 @@ Python's dynamic typing is like a versatile kitchen where containers are not ass
 Rather than permanently labelling a jar as “sugar”, you can put honey or salt in it as and when required. 
 In Python, you need not declare a variable's data type in advance.
 '''
+
+'''
+'''
