@@ -95,6 +95,7 @@ Leverage Python's highly optimized built-in functions like sum(), max(), min(), 
 Use generators for large datasets to optimize memory usage by producing values on the fly.
 Use the .join() method for string concatenation, as using the + operator repeatedly is less efficient.
 Minimize the use of global variables in performance-critical sections, as local variables are accessed faster.
+
 Read and Analyze Code: Reviewing well-written open-source projects or solutions from other experienced developers exposes you to new techniques and best practices.
 Build a Portfolio and Engage with the Community: Apply your skills to real-world projects and participate in communities like Stack Overflow or relevant subreddits to get insights and collaborate. 
 '''
