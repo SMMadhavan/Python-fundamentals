@@ -73,6 +73,7 @@ To become a "pro" in dynamic programming (DP) using Python, you must focus on un
 Mastering Dynamic Programming Fundamentals
 The key to dynamic programming is breaking down complex problems into smaller, overlapping subproblems and storing the solutions to avoid redundant computations. 
 Master Recursion first: DP solutions are fundamentally optimized recursive solutions. Ensure you are comfortable writing pure, brute-force recursive functions before applying DP.
+
 Identify Overlapping Subproblems and Optimal Substructure: A problem can be solved with DP if it has:
 Overlapping Subproblems: The same subproblems are solved multiple times.
 Optimal Substructure: The optimal solution to the main problem can be constructed from optimal solutions to its subproblems.
@@ -81,6 +82,7 @@ Learn Memoization (Top-Down): This involves storing the results of expensive fun
 Learn Tabulation (Bottom-Up): This is an iterative approach where you fill a table (often an array) with solutions starting from the base cases up to the final solution. This avoids the maximum call stack size limitation of recursion in Python.
 Optimize Space Complexity: After getting a working solution, consider if you can reduce memory usage by only storing the necessary previous states (e.g., in the Fibonacci sequence, you only need the two previous numbers, not the entire list).
 Practice with Classic Problems: Solve a variety of well-known DP problems such as the Fibonacci sequence, Knapsack problem, Longest Common Subsequence, and Edit Distance on platforms like LeetCode, HackerRank, and [GeeksforGeeks](https://www.geeksfor Geeks.org/). 
+
 Leveraging Python's Strengths
 Becoming a "pro" also means writing idiomatic, efficient, and clean Python code. 
 Use built-in data structures wisely:
