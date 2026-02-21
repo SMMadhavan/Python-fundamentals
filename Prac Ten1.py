@@ -2,5 +2,5 @@
 # Logically python file no.11
 
 '''
-Beginner level introduction into
+Beginner level introduction into Python Syllogy
 '''
