@@ -2,5 +2,5 @@
 # Logically python file no.11
 
 '''
-Python Dependencies and Virtual Environment 
+Python Dependencies and Virtual Environment Setup
 '''
