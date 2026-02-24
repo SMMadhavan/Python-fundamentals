@@ -24,7 +24,7 @@ if age >= 18:
     print("You are an adult.")
     
 if-else statement: Provides an alternative path of execution. If the if condition is False, the else block runs.
-# python
+# Python code
 number = 7
 if number % 2 == 0:
     print("The number is even.")
