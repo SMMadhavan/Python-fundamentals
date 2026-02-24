@@ -18,13 +18,13 @@ Conditional Statements
 These statements execute specific blocks of code based on whether a condition is True or False. 
 
 if statement: The simplest form, which executes an indented code block only if its condition is true.
-# python code
+# Python code
 age = 25
 if age >= 18:
     print("You are an adult.")
     
 if-else statement: Provides an alternative path of execution. If the if condition is False, the else block runs.
-python
+# python
 number = 7
 if number % 2 == 0:
     print("The number is even.")
@@ -32,7 +32,7 @@ else:
     print("The number is odd.")
 
 if-elif-else chain: Allows checking multiple conditions sequentially. Only the first condition that evaluates to True has its corresponding block executed.
-# python code
+# Python code
 score = 75
 if score >= 90:
     print("Grade: A")
@@ -44,7 +44,7 @@ else:
     print("Grade: F")
 
 Ternary Operator (Short-hand if-else): A concise way to write an if-else statement in a single line, used for simple assignments.
-# python code
+# Python code
 result = "Even" if number % 2 == 0 else "Odd"
  
 Loop Statements
