@@ -1,5 +1,5 @@
 # Chronologically python file no.12
 
 '''
-Moving onto Python Visual
+Moving onto Python Visualisation
 '''
