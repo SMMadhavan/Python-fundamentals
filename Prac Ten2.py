@@ -1,7 +1,7 @@
 # Chronologically python file no.12
 
 '''
-Moving onto Python Visualisation
+Moving onto Python Visualisation to learn how programming can be visulaised
 
-This file is desgined to learn how programming cqn be visulaised
+This file is desgined to 
 '''
