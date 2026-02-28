@@ -31,6 +31,4 @@ Open Source and Community Support: The libraries are free to use, widely documen
 By transforming complex data into visuals, Python enables users to uncover patterns and trends that might otherwise remain hidden, ultimately leading to more informed, data-driven decisions. 
 '''
 
-'''
-There are many tools/websites online, for python programming visualization that helps understand logic and functionality of underlying code
-'''
+# There are many tools/websites online, for python programming visualization that helps understand logic and functionality of underlying code.
