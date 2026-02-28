@@ -30,3 +30,6 @@ Integration: Visualizations can be easily integrated into various mediums, inclu
 Open Source and Community Support: The libraries are free to use, widely documented, and backed by large, active communities, providing ample resources for learning and troubleshooting. 
 By transforming complex data into visuals, Python enables users to uncover patterns and trends that might otherwise remain hidden, ultimately leading to more informed, data-driven decisions. 
 '''
+
+'''
+'''
