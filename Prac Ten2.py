@@ -33,5 +33,7 @@ By transforming complex data into visuals, Python enables users to uncover patte
 
 # There are many tools/websites online, for python programming visualization that helps understand logic and functionality of underlying code.
 
-# When you say visualization, we can infer two concepts:
+'''
+When you say visualization, we can infer two concepts:
 (i) Observing Code execution into charts and graphs for visual glimpse of underlying programming
+'''
