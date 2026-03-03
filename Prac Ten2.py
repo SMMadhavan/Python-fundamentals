@@ -35,7 +35,6 @@ By transforming complex data into visuals, Python enables users to uncover patte
 
 '''
 When you say visualization, we can infer two concepts:
-
 (i) Observing Code execution into charts and graphs for visual glimpse of underlying programming
 (ii) Visualizer tool for understanding how the code functions internally with step by step (line by line) execution - DSA, Looping
 '''
