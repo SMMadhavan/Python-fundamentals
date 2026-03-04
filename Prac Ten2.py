@@ -1,7 +1,7 @@
 # Chronologically python file no.12
 
 '''
-Moving onto Python Visualisation to learn how programming can be visualised
+Moving onto Python Visualisation, to learn how programming can be visualised
 
 Python data visualization involves using a rich ecosystem of libraries to transform raw data into graphical formats like charts, graphs, 
 and maps to help in analysis and decision-making.
@@ -38,3 +38,4 @@ When you say visualization, we can infer two concepts:
 (i) Observing Code execution into charts and graphs for visual glimpse of underlying programming
 (ii) Visualizer tool for understanding how the code functions internally with step by step (line by line) execution - DSA, Looping
 '''
+
