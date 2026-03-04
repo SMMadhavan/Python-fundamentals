@@ -4,7 +4,7 @@
 Moving onto Python Visualisation, to learn how programming can be visualised
 
 Python data visualization involves using a rich ecosystem of libraries to transform raw data into graphical formats like charts, graphs, 
-and maps to help in analysis and decision-making.
+and maps to help in analysis and decision-making. It improves the understanding of data significantly in a glimpse
 
 Core Libraries
 The Python ecosystem offers a diverse range of libraries, each suited for different needs: 
