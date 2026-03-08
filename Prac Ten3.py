@@ -3,6 +3,5 @@
 '''
 Introduction to cps
 
-When we ralk about python ad a language, 
+When we talk about python as a language, we follow the concept of computer programming sense.
 '''
-
