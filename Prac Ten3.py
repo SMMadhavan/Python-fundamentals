@@ -2,5 +2,7 @@
 
 '''
 Introduction to cps
+
+When we ralk about python ad a language, 
 '''
 
