@@ -17,4 +17,4 @@ Smart Thermostat: Automatically adjusting the home temperature based on user-def
 
 '''
 
-# Moving onto
+# Moving onto concept of DPL
