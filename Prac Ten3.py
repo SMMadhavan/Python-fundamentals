@@ -10,7 +10,11 @@ Everyday Life Programming Examples
 Programming is often used in devices around us, often without us realizing it:
 
 Coffee Maker: Setting a timer for 7:00 AM to automatically start brewing is a form of programmed instruction.
+
 Microwave: Pressing buttons to set time and power level, then executing the cooking sequence.
+
 Smart Thermostat: Automatically adjusting the home temperature based on user-defined schedules and preferences. 
 
 '''
+
+# Moving onto
