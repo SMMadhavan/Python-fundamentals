@@ -9,3 +9,5 @@ Purpose of this repository:
 - To track my learning progress over time
 
 This repository will be updated as I continue learning. 
+
+For better readability of files, kindly choose soft wrap option 
