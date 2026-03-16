@@ -15,6 +15,7 @@ Microwave: Pressing buttons to set time and power level, then executing the cook
 
 Smart Thermostat: Automatically adjusting the home temperature based on user-defined schedules and preferences. 
 
+So that's how programming logic works in reality.
 '''
 
 # Moving onto concept of DPL
