@@ -19,3 +19,5 @@ So that's how programming logic works in reality.
 '''
 
 # Moving onto concept of DPL
+
+Utilizing python in everyday life involves
