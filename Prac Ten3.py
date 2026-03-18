@@ -9,16 +9,16 @@ Basically, we program logic functionality that the computer performs in its own 
 Everyday Life Programming Examples
 Programming is often used in devices around us, often without us realizing it:
 
-Coffee Maker: Setting a timer for 7:00 AM to automatically start brewing is a form of programmed instruction.
+1. Coffee Maker: Setting a timer for 7:00 AM to automatically start brewing is a form of programmed instruction.
 
-Microwave: Pressing buttons to set time and power level, then executing the cooking sequence.
+2. Microwave: Pressing buttons to set time and power level, then executing the cooking sequence.
 
-Smart Thermostat: Automatically adjusting the home temperature based on user-defined schedules and preferences. 
+3. Smart Thermostat: Automatically adjusting the home temperature based on user-defined schedules and preferences. 
 
 So that's how programming logic works in reality.
 '''
 
-# Moving onto concept of DPL
+# Moving onto concept of DPL ()
 
 '''
 Utilizing python in everyday life involves simple yet useful and functional usability for various application based utilities 
