@@ -10,4 +10,4 @@ Purpose of this repository:
 
 This repository will be updated as I continue learning. 
 
-For better readability of files, kindly choose soft wrap option after clicking on edit this file
+For better readability of files, kindly choose "Soft wrap" option after clicking on "Edit this file"
