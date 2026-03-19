@@ -18,6 +18,4 @@ Programming is often used in devices around us, often without us realizing it:
 So that's how programming logic works in reality.
 '''
 
-# Moving onto concept of DPL ()
-
-'''
+# Moving onto concept of DPL 
