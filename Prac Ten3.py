@@ -21,5 +21,4 @@ So that's how programming logic works in reality.
 # Moving onto concept of DPL ()
 
 '''
-Utilizing python in everyday life involves simple yet useful and functional usability for various application based utilities 
-'''
+Utilizing python in everyday life involves simple yet useful and functional usability for various a
