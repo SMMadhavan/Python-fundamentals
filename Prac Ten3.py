@@ -19,3 +19,5 @@ So that's how programming logic works in reality.
 '''
 
 # Moving onto concept of DPL 
+
+Furthermore, tbh we actually implement this concept in daily tasks 
