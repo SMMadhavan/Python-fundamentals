@@ -21,5 +21,8 @@ So that's how programming logic works in reality.
 # Moving onto concept of DPL 
 
 '''
-Furthermore, to be honest we actually implement this concept in daily basis, but we dont often conceptualize it from the programming point of view
+Furthermore, to be honest, we actually implement this concept in daily basis, but we dont often conceptualize it from the programming point of view
+
+One of the best example is SCRATCH 
+
 '''
