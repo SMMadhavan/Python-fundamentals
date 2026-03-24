@@ -25,6 +25,6 @@ Furthermore, to be honest, we actually implement this concept in daily basis, bu
 
 One of the best example is SCRATCH 
 
-SCRATCH is a drag and drop kind of seamless programming tool in python 
+SCRATCH is a drag and drop kind of seamless programming tool in python used to build logic and functionality 
 
 '''
