@@ -29,9 +29,9 @@ SCRATCH is a drag and drop kind of seamless programming tool in python used to b
 
 Key aspects of Scratch programming include:
 
-Block-Based Coding: Instead of typing code, users snap together puzzle-piece blocks to create scripts, which makes it accessible for beginners.
-Sprites and Stages: Users create projects by programming objects called "sprites" (characters or items) to move and interact on a "stage" area.
-Purpose: It teaches logical reasoning, computational thinking, and creativity, rather than focusing solely on syntax.
-Online Community: Users can share their projects, learn from others, and explore projects created by millions of other users worldwide. 
+-Block-Based Coding: Instead of typing code, users snap together puzzle-piece blocks to create scripts, which makes it accessible for beginners.
+-Sprites and Stages: Users create projects by programming objects called "sprites" (characters or items) to move and interact on a "stage" area.
+-Purpose: It teaches logical reasoning, computational thinking, and creativity, rather than focusing solely on syntax.
+-Online Community: Users can share their projects, learn from others, and explore projects created by millions of other users worldwide. 
 
 '''
