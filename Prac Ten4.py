@@ -1,5 +1,1 @@
 # Chronologically python file no.14
-
-'''
-Moving onto one of the very interesting articulation in software design.....
-'''
