@@ -34,5 +34,5 @@ Key aspects of Scratch programming include:
 -Purpose: It teaches logical reasoning, computational thinking, and creativity, rather than focusing solely on syntax.
 -Online Community: Users can share their projects, learn from others, and explore projects created by millions of other users worldwide. 
 
-To proceed further with its implementation, lets look into .......
+To proceed further with its implementation, lets look into how scratch blends with python .......
 '''
