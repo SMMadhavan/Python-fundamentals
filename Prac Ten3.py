@@ -35,5 +35,5 @@ Key aspects of Scratch programming include:
 -Online Community: Users can share their projects, learn from others, and explore projects created by millions of other users worldwide. 
 
 To proceed further with its implementation, lets look into how scratch blends with python and how as a python learner it can be coordinated for 
-understanding .........
+understanding serialization .........
 '''
