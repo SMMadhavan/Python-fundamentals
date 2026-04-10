@@ -3,4 +3,6 @@
 '''
 Going further with the concept of tradeoffs between logic and complexity in programming so that
 space and time complexity can be interpreted in system computation and functionality.....
+
+So lets focus further on
 '''
