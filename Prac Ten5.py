@@ -10,9 +10,4 @@ influences the output or result of the code.
 3.
 4.
 5.
-6.
-7.
-8.
-9.
-10.
 '''
