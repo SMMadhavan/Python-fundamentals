@@ -11,14 +11,14 @@ print(0+1)
 
 '''
 This is a multiline character used to make multiple lines as comment lines
-This is line number second
-This is line number third
+This is line number two
+This is line number three
 This is line number four
 '''
 """
 This is a multiline character used to make multiple lines as comment lines
-This is line number second
-This is line number third
+This is line number two
+This is line number three
 This is line number four
 """
 print("I am learning this course from code with harry\nand this is very interesting\talso i am learning new concepts")
