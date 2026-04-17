@@ -16,7 +16,7 @@ This is line number three
 This is line number four
 '''
 """
-This is a multiline character used to make multiple lines as comment lines
+This is a multiline character used to make multiple lines as comment lines (Double Quotation Triplet)
 This is line number two
 This is line number three
 This is line number four
