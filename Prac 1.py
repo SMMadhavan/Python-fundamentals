@@ -10,7 +10,7 @@ print(0+1)
 #Day 2 (Comments and escape sequence characters)
 
 '''
-This is a multiline character used to make multiple lines as comment lines
+This is a multiline character used to make multiple lines as comment lines (Single Quotation Triplet)
 This is line number two
 This is line number three
 This is line number four
