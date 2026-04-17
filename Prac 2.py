@@ -6,7 +6,7 @@ print(5+6) # Addition Operator
 print(15-6) # Subtraction Operator
 print(15*6) # Multiplication Operator
 print(15/6) # Division Operator
-print(15//6) # Floor Division Operator (returns whole integer)
+print(15//6) # Floor Division Operator (returns whole integer, roundoff of quotient)
 print(5%3) # Modulo Operator (returns remainder)
 print(2**4) # Exponential Operator (returns power times multiplication)
 
