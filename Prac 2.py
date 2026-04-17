@@ -7,7 +7,7 @@ print(15-6) # Subtraction Operator
 print(15*6) # Multiplication Operator
 print(15/6) # Division Operator
 print(15//6) # Floor Division Operator (returns whole integer, roundoff of quotient)
-print(5%3) # Modulo Operator (returns remainder)
+print(5%3) # Modulo Operator (returns remainder), Remainder is 0 only in the case where dividend is a multiple of divisor, else its random
 print(2**4) # Exponential Operator (returns power times multiplication)
 
 #Day 8 Building a Static calculator
