@@ -8,6 +8,4 @@ Purpose of this repository:
 - To revise Python fundamentals
 - To track my learning progress over time
 
-This repository will be updated as I continue learning. 
-
-For better readability of files, kindly choose "Soft wrap" option after clicking on "Edit this file"
+This repository will be updated as I continue learning.
