@@ -6,4 +6,10 @@ Beginning with the concept of logic overlapping or augmentation preference in pr
 So one thing to get familiar while programming is logical preference of command or instruction execution in a sequence that 
 influences the output or result of the code.
 
+1.
+2.
+3.
+4.
+5.
+6.
 '''
