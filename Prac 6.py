@@ -14,6 +14,7 @@ Python's extensive standard library provides modules to handle a wide range of c
 File System & OS Interaction: The os, os.path, and shutil modules manage files and directories, such as copying files (shutil.copy), listing directories (os.listdir), and creating paths (os.path.join).
 Running External Processes: The subprocess module allows for executing external commands and capturing their output.
 Networking and HTTP: The urllib.request module fetches data from URLs. For more advanced use, the popular third-party requests library is widely used.
+
 Debugging and Profiling:
 pdb: The standard Python debugger for step-by-step code execution.
 cProfile: A built-in profiler to identify performance bottlenecks in your code by measuring function call times.
