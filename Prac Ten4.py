@@ -26,5 +26,5 @@ Common Examples:
 O(1): Using a fixed number of variables regardless of input size.
 O(N): Creating a new list that mirrors the size of the input list. 
 
-Moving further into system operations and compatibility parameters...... so to begin with 
+Moving further into system operations and compatibility parameters. so to begin with........
 '''
