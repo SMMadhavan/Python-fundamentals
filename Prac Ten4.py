@@ -28,6 +28,7 @@ O(N): Creating a new list that mirrors the size of the input list.
 
 Moving further into system operations and compatibility parameters. There are certain pre existing parameters, which can 
 be inferred for understanding this:
+
 Firstly, the binary parameter...
 Secondly,
 '''
