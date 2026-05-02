@@ -30,5 +30,5 @@ Moving further into system operations and compatibility parameters. There are ce
 be inferred for understanding this:
 
 Firstly, the binary parameter...
-Secondly,
+Secondly, o(n) Complexity
 '''
