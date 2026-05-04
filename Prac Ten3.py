@@ -36,4 +36,6 @@ Key aspects of Scratch programming include:
 
 To proceed further with its implementation, lets look into how scratch blends with python and how as a python learner it can be coordinated for 
 understanding serialization (or) sequentialization in pointer analysis of continuous implementation of a program. 
+
+So, Scratch Consists of intuituve and fun blocks of programmable chunks consisting of varibles, pointers, loops and conditional statements....
 '''
