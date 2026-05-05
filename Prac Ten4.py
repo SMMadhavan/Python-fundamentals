@@ -31,4 +31,5 @@ be inferred for understanding this:
 
 Firstly, the binary parameter...
 Secondly, o(n) Complexity
+Third, bit/byte optimization 
 '''
