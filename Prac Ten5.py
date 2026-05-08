@@ -13,8 +13,4 @@ influences the output or result of the code / program.
 4. M
 5. A
 6. S
-7. 
-8. 
-9. 
-10.
 '''
