@@ -36,4 +36,7 @@ Fourth, the algebraic proximity
 Fifth, Bit max sampling 
 Sixth, 
 Seventh, 
+Eighth,
+Ninth,
+Tent
 '''
