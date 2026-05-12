@@ -35,4 +35,5 @@ Third, bit/byte optimization and binary operations
 Fourth, the algebraic proximity 
 Fifth, Bit max sampling 
 
+Moving forward with another topic 
 '''
