@@ -34,9 +34,5 @@ Secondly, o(n) Complexity
 Third, bit/byte optimization and binary operations 
 Fourth, the algebraic proximity 
 Fifth, Bit max sampling 
-Sixth, 
-Seventh, 
-Eighth,
-Ninth,
-Tenth
+
 '''
