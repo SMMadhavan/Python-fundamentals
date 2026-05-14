@@ -38,4 +38,7 @@ Fifth, Bit max sampling
 Moving forward with another topic (Point Wise):
 1.
 2.
+3.
+4.
+5.
 '''
