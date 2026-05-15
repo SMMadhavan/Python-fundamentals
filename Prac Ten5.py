@@ -15,4 +15,6 @@ influences the output or result of the code / program.
 6. S
 
 Mathematical Calculus can be stated as:
+
+The algebraic computation 
 '''
