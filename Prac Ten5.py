@@ -14,5 +14,5 @@ influences the output or result of the code / program.
 5. A
 6. S
 
-Mathematical Calculus
+Mathematical Calculus can be stated as:
 '''
