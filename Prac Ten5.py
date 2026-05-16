@@ -16,5 +16,5 @@ influences the output or result of the code / program.
 
 Mathematical Calculus can be stated as:
 
-The algebraic computation of instructions consisting of zeroes and ones
+The algebraic computation of instructions consisting of 0's and 1's
 '''
