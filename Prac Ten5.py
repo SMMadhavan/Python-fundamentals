@@ -8,8 +8,8 @@ influences the output or result of the code / program.
 
 (BODMAS)
 
-1. B ()
-2. O ()
+1. B (Brackets)
+2. O (Orders)
 3. D (Division)
 4. M (Multiplication)
 5. A (Addition)
