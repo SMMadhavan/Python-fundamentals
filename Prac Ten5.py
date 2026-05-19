@@ -7,9 +7,10 @@ So one thing to get familiar while programming is logical preference of command 
 influences the output or result of the code / program.
 
 (BODMAS)
+
 1. B
 2. O
-3. D 
+3. D (Division)
 4. M
 5. A
 6. S
