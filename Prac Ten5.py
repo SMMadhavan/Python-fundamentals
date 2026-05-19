@@ -11,7 +11,7 @@ influences the output or result of the code / program.
 1. B
 2. O
 3. D (Division)
-4. M
+4. M (Multiplication)
 5. A
 6. S
 
