@@ -37,14 +37,4 @@ Fifth, Bit max sampling
 
 Moving forward with another topic (Point Wise):
 1. To explore the binary parameter, we have to know the game of 0's and 1's
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
 '''
