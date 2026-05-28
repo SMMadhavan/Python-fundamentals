@@ -6,7 +6,7 @@
 3. # Main file3.txt
 4. # Main file4.txt
 5. # Main file5.txt
-6.
+6. # Main file6.txt
 7.
 8.
 9.
