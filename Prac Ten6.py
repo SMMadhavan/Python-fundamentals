@@ -9,7 +9,7 @@
 6. # Main file6.txt
 7. # cmd cd dtr.ext
 8. # mov mkdir > gb.etp
-9.
+9. # rndir prac py.file
 10.
 11.
 """
