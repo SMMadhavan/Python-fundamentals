@@ -10,6 +10,4 @@
 7. # cmd cd dtr.ext
 8. # mov mkdir > gb.etp
 9. # rndir prac py.file
-10. #fildir.trajex
-11. #json.txt
 """
