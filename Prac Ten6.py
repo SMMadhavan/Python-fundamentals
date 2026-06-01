@@ -1,6 +1,6 @@
 # Practice file no. 16
 
 """
-Logarithmic Functions of data manipulation:
+Logarithmic Functions of data manipulation in programming:
 1.
 """
