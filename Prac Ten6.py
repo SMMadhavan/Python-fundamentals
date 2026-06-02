@@ -6,5 +6,6 @@ Logarithmic Functions of data manipulation in programming:
 2.
 3.
 4.
+5.
 
 """
