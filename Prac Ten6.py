@@ -12,4 +12,5 @@ Logarithmic Functions of data manipulation in programming:
 8.
 9.
 10.
+
 """
