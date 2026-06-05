@@ -2,9 +2,10 @@
 
 """
 Logarithmic Functions of data manipulation in programming:
-1.
-2.
-3.
+
+1.Log
+2.Exp
+3.Arithmetic
 4.
 5.
 6.
