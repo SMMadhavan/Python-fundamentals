@@ -9,5 +9,6 @@ Basically, commands that run on their own without human interpretation, in layma
 
 So how does this exactly happen?
 
-Let's have a look at law of computation 
+Let's have a look at law of computation:
+1.
 '''
