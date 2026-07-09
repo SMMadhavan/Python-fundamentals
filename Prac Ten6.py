@@ -19,6 +19,6 @@ Common Language Implementations
 
 Key Considerations 
 While synchronous automation guarantees order, it blocks the main thread, which can crash or severely slow down applications if the command takes a long time to execute.
-For I/O-heavy operations or scaling applications, you often have to switch to asynchronous architectures like Promises or Event-driven flows. [10]  
+For I/O-heavy operations or scaling applications, you often have to switch to asynchronous architectures like Promises or Event-driven flows.
 
 '''
